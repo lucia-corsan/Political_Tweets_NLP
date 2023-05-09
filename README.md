@@ -2,7 +2,7 @@
 
 # Index
 1. Introduction
-2. Data Extraction: Twitter scrapping and loading
+2. Data Extraction: Twitter scraping and loading
 3. Training set: Preprocessing and Vectorization of tweets
 4. Testing set: Preprocessing and Vectorization of tweets
 5. Training and evaluation of the ML Model
